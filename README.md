@@ -1,2 +1,0 @@
-# HarvardX
-CS50
